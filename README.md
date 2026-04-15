@@ -1,3 +1,4 @@
+![Capa](https://i.pinimg.com/736x/b5/96/54/b59654d3aebfb5b21e8e9d5c351de880.jpg)
 # Do Julgamento à Ressurreição
 
 Um mini guia sobre os eventos que marcaram a morte e a ressurreição de Jesus Cristo.
