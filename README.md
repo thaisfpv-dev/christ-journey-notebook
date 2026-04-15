@@ -21,3 +21,12 @@ Como usar
 Leia os capítulos na ordem
 Faça suas próprias anotações
 Use como apoio para estudos ou devocionais
+
+## Curadoria de Fontes
+https://www.youtube.com/watch?v=rWvP9Ovcc-k
+https://www.youtube.com/watch?v=rWvP9Ovcc-k
+https://pt.wikipedia.org/wiki/Almeida_Corrigida_Fiel
+
+## Engenharia de Prompts 
+Prompts estratégicos como: "Refaça a resposta com citações dos textos biblicos sobre cada tema", foram inseridos.
+Vídeo, apresentação e mapa mental, foram bem estruturados com o relatorio de resumo solicitado
